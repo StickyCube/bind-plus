@@ -48,6 +48,8 @@ var bound = bind(foo, [1, 2, 3]);
 bound(); // 6
 ```
 
+#### With context
+
 functions which do rely on `this` will require a context.
 
 ```javascript
