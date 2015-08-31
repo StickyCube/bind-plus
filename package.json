@@ -1,0 +1,32 @@
+{
+  "name": "bind-plus",
+  "version": "1.0.0",
+  "description": "Utility to provide apply-like semantics to bind",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "keywords": [
+    "bind",
+    "apply",
+    "bound",
+    "functions"
+  ],
+  "author": "stickycube",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StickyCube/bind-plus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/StickyCube/bind-plus/issues"
+  },
+  "homepage": "https://github.com/StickyCube/bind-plus#readme"
+}
